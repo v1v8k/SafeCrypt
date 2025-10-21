@@ -23,7 +23,11 @@ pip install cryptography pyfiglet
 To install the required libraries, run the following command:
 
 git clone https://github.com/v1v8k/SafeCrypt.git
+
 cd SafeCrypt
+
 chmod +x SafeCrypt.py
+
 python3 SafeCrypt.py
+
 [+] Thank You for using ;)
