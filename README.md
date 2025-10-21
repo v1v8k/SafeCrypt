@@ -1,7 +1,7 @@
 # SafeCrypt
 [+] Description
 
-SAFECrypt is a Python-based encryption tool that allows users to encrypt and decrypt files using both symmetric (AES) and asymmetric (RSA) encryption methods. This tool provides a simple command-line interface for secure file handling.
+SafeCrypt is a Python-based encryption tool that allows users to encrypt and decrypt files using both symmetric (AES) and asymmetric (RSA) encryption methods. This tool provides a simple command-line interface for secure file handling.
 
 
 Example Image: AES Encryption
@@ -12,7 +12,7 @@ RSA Encryption:
 <img width="963" height="540" alt="RSA" src="https://github.com/user-attachments/assets/6131bd61-ee7b-4635-8193-215d77b3da50" />
 
 Prerequisites
-To use safeCrypt, ensure you have the following installed:
+To use SafeCrypt, ensure you have the following installed:
 
 Python: Version 3.7 or higher
 
