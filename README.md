@@ -19,7 +19,9 @@ Python: Version 3.7 or higher
 Pip: The Python package installer
 
 pip install cryptography pyfiglet
+
 [+] Installation
+
 To install the required libraries, run the following command:
 
 git clone https://github.com/v1v8k/SafeCrypt.git
